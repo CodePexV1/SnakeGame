@@ -78,6 +78,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub Repository**: [https://github.com/CodePexV1/Snake-Game-Python]([https://github.com/CodePexV1/Snake-Game-Python](https://github.com/CodePexV1/SnakeGame))
 - **Python**: [https://www.python.org/](https://www.python.org/)
 
+## 🔧 **To-do List**
+- Support wasd keys
+- Fights mode 
+
 - ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/codepex)
   
