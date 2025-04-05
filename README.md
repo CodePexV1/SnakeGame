@@ -42,7 +42,8 @@ Welcome to the **Snake Game Deluxe** project! 🐍🎮 A fun and customizable Sn
 
 Here’s a sneak peek of the game:
 
-![Game Screenshot]([screenshot.png](https://private-user-images.githubusercontent.com/200723852/430623358-b21833e4-4ee5-4809-b881-6652e462b709.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NjE0NTAsIm5iZiI6MTc0Mzg2MTE1MCwicGF0aCI6Ii8yMDA3MjM4NTIvNDMwNjIzMzU4LWIyMTgzM2U0LTRlZTUtNDgwOS1iODgxLTY2NTJlNDYyYjcwOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQxMzUyMzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjc5Mzk1YTNkZjlmYWVhZGRhMjUzOWNkMjViOTU2MmRmMGU1MzI1NDEyMWNhOTM2ZmM1MTc0NmQ3NjkxNWFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UeXSRpMXHSpXt-1HszXoGpm7nj4ZBg1MLKGJMoJ6_C4))
+![Game Screenshot]
+![Screenshot](https://github.com/user-attachments/assets/2f7687f3-3c05-4497-86ca-27043b10c171)
 
 ## 💡 **How to Customize**
 - You can change the **snake color** in the **Settings** menu.
