@@ -1,4 +1,4 @@
-# 🐍 **Snake Game Deluxe** 🎮
+# 🐍 **Snake Game** 🎮
 
 Welcome to the **Snake Game Deluxe** project! 🐍🎮 A fun and customizable Snake game built using **Python** and **Tkinter**.
 
