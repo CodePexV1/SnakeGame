@@ -42,7 +42,6 @@ Welcome to the **Snake Game Deluxe** project! 🐍🎮 A fun and customizable Sn
 
 Here’s a sneak peek of the game:
 
-![Game Screenshot]
 ![Screenshot](https://github.com/user-attachments/assets/2f7687f3-3c05-4497-86ca-27043b10c171)
 
 ## 💡 **How to Customize**
